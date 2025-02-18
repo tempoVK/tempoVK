@@ -36,10 +36,10 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages-Frameworks-Tools 
 <br/>
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;"><img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300" align="center"></td>
-    <td>
+    <td style="border: none;">
       <div align="center">
        <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
        <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
