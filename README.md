@@ -30,8 +30,8 @@
 
  <hr/>
 
-<h2 align="center">
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="100" align="center"> <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages-Frameworks-Tools 
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
