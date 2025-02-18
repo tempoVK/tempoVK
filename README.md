@@ -35,14 +35,17 @@
 
 
 <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300" align="center">
-
+<div style="display: flex; flex-direction: column; gap: 10px; border: 2px solid #ccc; padding: 10px; width: 200px;">
+        <div style="padding: 20px; background-color: lightblue; text-align: center;">Div 1</div>
+        <div style="padding: 20px; background-color: lightgreen; text-align: center;">Div 2</div>
+</div>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages-Frameworks-Tools 
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+ <div align="center">
+     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+ </div> 
 
 <br/>
 <hr/>
