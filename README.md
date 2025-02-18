@@ -51,7 +51,7 @@
 
 
 
-<h2 align="center">Stats</h2>
+<h3 align="center">Stats</h3>
 <br/>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -66,7 +66,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4aba8602-6a81-4772-af1f-f593ee6c389f" width="300">
 </div>
 
 <br/>
