@@ -4,7 +4,7 @@
 <br/>
 <div align="center">
 
- <h1>A passionate software developer from India</h1>
+ <h3>A passionate software developer from India</h3>
  
 
 </div>
