@@ -1,18 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=150&lines=Hey+there!;My+name+is+Vedant+Kavar.;I'm+a+Computer+Science+student+at+Nirma+University.;Nice+meeting+you!+Feel+free+to+reach+out.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=150&lines=Hey+there!;My+name+is+Vedant+Kavar.;I'm+a+passionate+Computer+Science+enthusiast%2C+exploring+and+building+scalable+solutions.;Nice+meeting+you!+Feel+free+to+reach+out.)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from India🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 🎓 I’m currently currently pursuing Computer Science and Engineering from Nirma University at Ahmedabad, Gujarat.
 
  </div>
  
