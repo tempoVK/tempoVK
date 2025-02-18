@@ -38,10 +38,9 @@
 <table>
   <tr>
     <td>Div 1</td>
-  </tr>
-  <tr>
     <td>Div 2</td>
   </tr>
+    
 </table>
 
 
