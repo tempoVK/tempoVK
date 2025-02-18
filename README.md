@@ -1,12 +1,13 @@
-<table width="100%" align="center">
-  <tr>
-    <td align="center" bgcolor="white">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=150&lines=Hey+there!;I'm+a+software+engineering+student+%2B+cyber+security+minor.;It's+a+pleasure+to+meet+you+here." alt="Typing SVG" />
-      <br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub!;I+love+coding+and+cybersecurity.;Let's+connect+and+collaborate!" alt="Typing SVG 2" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+<div style="background-color: white; padding: 20px;">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=500&height=150&lines=Hey+there!;I%27m+a+software+engineering+student+%2B;cyber+security+minor.;It%27s+a+pleasure+to+meet+you+here.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=500&height=150&lines=Hey+there!;I%27m+a+software+engineering+student+%2B;cyber+security+minor.;It%27s+a+pleasure+to+meet+you+here.)
+
+</div>
+
+</div>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
