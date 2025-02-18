@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&color=FFFFFF&background=010019BA&center=true&vCenter=true&width=1000&height=150&lines=Hey+there!;My+name+is+Vedant+Kavar.;I'm+a+Computer+Science+enthusiast%2C+exploring+and+building+scalable+solutions.;Nice+meeting+you!+Feel+free+to+reach+out.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=700&color=FFFFFF&background=010019BA&center=true&vCenter=true&width=1000&height=150&lines=Hey+there!;My+name+is+Vedant+Kavar.;I'm+a+Computer+Science+enthusiast%2C+exploring+and+building+scalable+solutions.;Nice+meeting+you!+Feel+free+to+reach+out.)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width=100%>
 <br>
 <br/>
