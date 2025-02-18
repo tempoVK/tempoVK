@@ -38,7 +38,7 @@
 <br/>
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300" align="center"></td>
+    <td style="border: none;"><img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300" align="center"></td>
     <td>
       <div align="center">
        <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
