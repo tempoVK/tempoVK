@@ -2,16 +2,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width=100%>
 <br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-
-- 📖 I am a 3rd year Computer Science student at Nirma University.
-- 💻 Experienced in MERN stack and Next.js web development.
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dhwanilv26&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhwanilv26&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&layout=compact" />
-</p>
-
 
 
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
@@ -20,9 +10,9 @@
 
 <div align="center">
  
- 🎓 I’m currently pursuing my degree in Computer Science and Engineering from Nirma University at Ahmedabad, Gujarat.
+ 🎓 I’m currently pursuing Computer Science from Nirma University.
 
- </div>
+</div>
 
  <br/>
  
@@ -40,7 +30,7 @@
 
  <hr/>
 
-### <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="50"> hello
+### <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="50"> hello </img>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
