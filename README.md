@@ -1,6 +1,11 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=150&lines=Hey+there!;My+name+is+Vedant+Kavar.;I'm+a+Computer+Science+enthusiast%2C+exploring+and+building+scalable+solutions.;Nice+meeting+you!+Feel+free+to+reach+out.)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
+
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
 
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
