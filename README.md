@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&pause=1000&color=B919F7&background=FFFFFF00&width=435&lines=Hey+there!;I'm+a+software+engineering+student+%2B+cyber+security+minor;It's+a+pleasure+to+meet+you+here" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
