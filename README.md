@@ -32,9 +32,9 @@
 
 
  
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
-</div>
+
+
+<img align="center" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
 
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages-Frameworks-Tools 
