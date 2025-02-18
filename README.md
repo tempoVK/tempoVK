@@ -2,7 +2,13 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width=100% >
+
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%" transform="rotate(-90, 100, 100)">
+    <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width=100 >
+  </foreignObject>
+</svg>
+
 
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
