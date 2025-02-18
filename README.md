@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+I'm+Vedant+kavar;+I'm+a+Software+Engineer+at+Nirma+University+in;+Ahmedabad+,+Gujarat;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
