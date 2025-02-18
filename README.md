@@ -17,18 +17,22 @@
  <br/>
  
 <div align="center"> 
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
+  <a href="mailto:vedantkavar24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/vedant-kavar-83ab2b288" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://github.com/Vedantkavar" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=100%>
+
+
 
 <div align="center">
   <div style="display: inline-block; vertical-align: top;">
@@ -40,7 +44,11 @@
   </div>
 </div>
 
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=100%>
+
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
