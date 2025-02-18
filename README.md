@@ -1,18 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=150&lines=Hey+there!;I'm+a+software+engineering+student+%2B+cyber+security+minor.;It's+a+pleasure+to+meet+you+here.)
-
-<svg width="1000" height="150" viewBox="0 0 1000 150" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gradient" gradientTransform="rotate(90)">
-      <stop offset="0%" stop-color="#ff8c00"/>
-      <stop offset="50%" stop-color="#ff0080"/>
-      <stop offset="100%" stop-color="#8000ff"/>
-    </linearGradient>
-  </defs>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="30" font-family="Poppins" font-weight="500" fill="url(#gradient)">
-    Hey there! I'm a software engineering student + cybersecurity minor. It's a pleasure to meet you here.
-  </text>
-</svg>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=150&lines=Hey+there!;My+name+is+Vedant+Kavar.;I'm+a+Computer+Science+student+at+Nirma+University+with+a+Cybersecurity+minor.;Nice+meeting+you!+Feel+free+to+reach+out)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
