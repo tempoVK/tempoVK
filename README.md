@@ -39,7 +39,7 @@
     <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
   </div>
   <div style="display: inline-block; vertical-align: top;">
-    <img src="https://skillicons.dev/icons?i=bash, c,cpp,java,python,git,vscode,github,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,java,python,git,vscode,github,mysql,mongodb"/>
     <img src="https://skillicons.dev/icons?i=bootstrap,css,django,flask,html,js,nextjs,nodejs,react,svelte,tailwind,typescript,figma" /><br>
   </div>
 </div>
