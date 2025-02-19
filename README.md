@@ -7,11 +7,10 @@
  <h3>A passionate software developer from India.</h3>
 
 </div>
-<br/>
 
 <div align="center">
  
- 🎓 I’m currently pursuing Computer Science from Nirma University.
+ 🎓 I’m a third year student pursuing Computer Science from Nirma University.
 
 </div>
 
@@ -31,8 +30,7 @@
 
 <br/><br/>
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=100%>
+<hr/>
 
 <div align="center">
   <div style="display: inline-block; vertical-align: top;">
