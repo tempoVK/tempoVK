@@ -33,9 +33,10 @@
 <hr/>
 
 <div align="center">
-  <div style="display: inline-block; vertical-align: top;">
+<!--   <div style="display: inline-block; vertical-align: top;">
     <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
-  </div>
+  </div> -->
+## <img height="24" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" /> Skills
   <div style="display: inline-block; vertical-align: top;">
     <img src="https://skillicons.dev/icons?i=bash,c,cpp,java,python,git,vscode,github,mysql,mongodb"/>
     <img src="https://skillicons.dev/icons?i=bootstrap,css,django,flask,html,js,nextjs,nodejs,react,svelte,tailwind,typescript,figma" /><br>
@@ -44,3 +45,12 @@
 
 
 <br/>
+
+## 🏆 Coding Profiles
+
+<p align="left">
+  
+  <a href="https://codeforces.com/profile/vedant_patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vedant_patel" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/vedantkavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedantkavar" height="30" width="40" /></a>
+</p>
+
