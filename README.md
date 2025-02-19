@@ -30,13 +30,11 @@
 
 <br/><br/>
 
-<hr/>
-
+## <img height="24" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" /> Skills
 <div align="center">
 <!--   <div style="display: inline-block; vertical-align: top;">
     <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
   </div> -->
-## <img height="24" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" /> Skills
   <div style="display: inline-block; vertical-align: top;">
     <img src="https://skillicons.dev/icons?i=bash,c,cpp,java,python,git,vscode,github,mysql,mongodb"/>
     <img src="https://skillicons.dev/icons?i=bootstrap,css,django,flask,html,js,nextjs,nodejs,react,svelte,tailwind,typescript,figma" /><br>
